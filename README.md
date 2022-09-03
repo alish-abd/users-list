@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started  
 
 Link to the project: https://forum-users-7p5f2inkx-alish-abd.vercel.app/register 
 
